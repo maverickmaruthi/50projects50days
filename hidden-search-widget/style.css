@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+/* Global Remedies
+******************/
+
+/* Use border-box by default, globally */
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+/*
+* Consistent line spacing...
+* CSS Inline Layout Module Level 3: https://drafts.csswg.org/css-inline-3/#line-sizing-property
+*/
+html {
+  line-sizing: normal;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  background-image: linear-gradient(90deg, #7d5fff, #7158e2);
+  margin: 0; /* Remove the tiny space around the edge of the page */
+}
+
+.search{
+  position: relative;
+  height: 50px;
+}
+.search .input,
+.search .btn {
+  background: #fff;
+  border: 0;
+  height: 50px;
+  width: 50px;
+}
+
+.search .input{
+  font-size: 18px;
+  padding: 15px;
+  transition: width 0.3s ease;
+}
+
+.search .btn {
+  font-size: 24px;
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  transition: transform 0.3s ease;
+  outline: none;
+}
+
+.search .btn:focus,
+.search .input:focus{
+  outline: none;
+}
+
+.search.active .input{
+  width: 200px;
+}
+
+.search.active .btn{
+  transform: translateX(198px);
+}
