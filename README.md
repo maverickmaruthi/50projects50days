@@ -9,3 +9,4 @@
 | 04  | [Hidden Search Widget](https://github.com/maverickmaruthi/50projects50days/tree/main/hidden-search-widget)                          | [Live Demo](https://50mini-projects-50days.netlify.app/hidden-search-widget/index.html)          |
 | 05  | [Blurry Loading](https://github.com/maverickmaruthi/50projects50days/tree/main/blurry-loading)                               | [Live Demo](https://50mini-projects-50days.netlify.app/blurry-loading/index.html)                |
 | 06  | [Scroll Animation](https://github.com/maverickmaruthi/50projects50days/tree/main/scroll-animation)                               | [Live Demo](https://50mini-projects-50days.netlify.app/scroll-animation/index.html)                |
+| 07  | [Split Landing Page](https://github.com/maverickmaruthi/50projects50days/tree/main/split-landing-page)                               | [Live Demo](https://50mini-projects-50days.netlify.app/split-landing-page/index.html)                |
