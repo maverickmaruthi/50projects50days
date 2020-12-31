@@ -12,4 +12,4 @@
 | 07  | [Split Landing Page](https://github.com/maverickmaruthi/50projects50days/tree/main/split-landing-page)                               | [Live Demo](https://50mini-projects-50days.netlify.app/split-landing-page/index.html)                |
 | 08  | [Form Wave Animation](https://github.com/maverickmaruthi/50projects50days/tree/main/form-wave-animation)                               | [Live Demo](https://50mini-projects-50days.netlify.app/form-wave-animation/index.html)                |
 | 09  | [Sound Board](https://github.com/maverickmaruthi/50projects50days/tree/main/sound-board)                               | [Live Demo](https://50mini-projects-50days.netlify.app/sound-board/index.html)                |
-| 10  | [Split Landing Page](https://github.com/maverickmaruthi/50projects50days/tree/main/dad-jokes)                               | [Live Demo](https://50mini-projects-50days.netlify.app/dad-jokes/index.html)                |
+| 10  | [Dad Jokes](https://github.com/maverickmaruthi/50projects50days/tree/main/dad-jokes)                               | [Live Demo](https://50mini-projects-50days.netlify.app/dad-jokes/index.html)                |
