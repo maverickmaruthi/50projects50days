@@ -13,3 +13,5 @@
 | 08  | [Form Wave Animation](https://github.com/maverickmaruthi/50projects50days/tree/main/form-wave-animation)                               | [Live Demo](https://50mini-projects-50days.netlify.app/form-wave-animation/index.html)                |
 | 09  | [Sound Board](https://github.com/maverickmaruthi/50projects50days/tree/main/sound-board)                               | [Live Demo](https://50mini-projects-50days.netlify.app/sound-board/index.html)                |
 | 10  | [Dad Jokes](https://github.com/maverickmaruthi/50projects50days/tree/main/dad-jokes)                               | [Live Demo](https://50mini-projects-50days.netlify.app/dad-jokes/index.html)                |
+| 11  | [Event Key Codes](https://github.com/maverickmaruthi/50projects50days/tree/main/event-key-codes)                               | [Live Demo](https://50mini-projects-50days.netlify.app/event-key-codes/index.html)                |
+| 12 | [Faq Collapse](https://github.com/maverickmaruthi/50projects50days/tree/main/faq-collapse)                               | [Live Demo](https://50mini-projects-50days.netlify.app/faq-collapse/index.html)                |
