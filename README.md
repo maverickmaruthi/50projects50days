@@ -19,3 +19,5 @@
 | 14 | [Animated Navigation](https://github.com/maverickmaruthi/50projects50days/tree/main/animated-navigation)                               | [Live Demo](https://50mini-projects-50days.netlify.app/animated-navigation/index.html)                |
 | 13  | [Increment Counter](https://github.com/maverickmaruthi/50projects50days/tree/main/increment-counter)                               | [Live Demo](https://50mini-projects-50days.netlify.app/increment-counter/index.html)                |
 | 14 | [Drink Water](https://github.com/maverickmaruthi/50projects50days/tree/main/drink-water)                               | [Live Demo](https://50mini-projects-50days.netlify.app/drink-water/index.html)                |
+| 15  | [Movie App](https://github.com/maverickmaruthi/50projects50days/tree/main/movie-app)                               | [Live Demo](https://50mini-projects-50days.netlify.app/movie-app/index.html)                |
+| 16 | [Drink Water](https://github.com/maverickmaruthi/50projects50days/tree/main/background-slider)                               | [Live Demo](https://50mini-projects-50days.netlify.app/background-slider/index.html)                |
