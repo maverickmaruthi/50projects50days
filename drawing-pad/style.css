@@ -27,7 +27,7 @@ body {
   border: 1px solid aquamarine;
   display: flex;
   padding: 1rem;
-  width: 95vw;
+  width: 804px;
 }
 
 .tool-box > * {
