@@ -26,3 +26,5 @@
 | 21 | [Drag N Drop](https://github.com/maverickmaruthi/50projects50days/tree/main/drag-n-drop)                               | [Live Demo](https://50mini-projects-50days.netlify.app/drag-n-drop/index.html)                |
 | 22 | [Drawing Pad](https://github.com/maverickmaruthi/50projects50days/tree/main/drawing-pad)                               | [Live Demo](https://50mini-projects-50days.netlify.app/drawing-pad/index.html)                |
 | 23 | [Kinetic CSS Loader](https://github.com/maverickmaruthi/50projects50days/tree/main/kinetic-css-loader)                               | [Live Demo](https://50mini-projects-50days.netlify.app/kinetic-css-loader/index.html)                |
+| 24 | [Content Placeholder](https://github.com/maverickmaruthi/50projects50days/tree/main/content-placeholder)                               | [Live Demo](https://50mini-projects-50days.netlify.app/content-placeholder/index.html)                |
+| 25 | [Sticky Navbar](https://github.com/maverickmaruthi/50projects50days/tree/main/sticky-navbar)                               | [Live Demo](https://50mini-projects-50days.netlify.app/sticky-navbar/index.html)                |
