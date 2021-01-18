@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+.toggle-container {
+  display: flex;
+  align-items: center;
+  margin: 1rem 0;
+  width: 20rem;
+}
+
+.toggle {
+  visibility: hidden;
+}
+
+.label {
+  width: 8rem;
+  height: 4rem;
+  background-color: #d0d0d0;
+  border-radius: 5rem;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 1.5rem 0;
+  position: relative;
+  font-family: inherit;
+}
+
+.toggle:checked + .label {
+  background-color: #8e44ad;
+}
+
+.ball {
+  background-color: #fff;
+  height: 3.4rem;
+  width: 3.4rem;
+  border-radius: 50%;
+  position: absolute;
+  top: 0.3rem;
+  left: 0.3rem;
+  animation: slideOff 0.3s linear forwards;
+}
+
+.toggle:checked + .label .ball {
+  animation: slideOn 0.3s linear forwards;
+}
+
+@keyframes slideOn {
+  0% {
+    transform: translateX(0) scale(1);
+  }
+  50% {
+    transform: translateX(2rem) scale(1.2);
+  }
+  100% {
+    transform: translateX(4rem) scale(1);
+  }
+}
+@keyframes slideOff {
+  0% {
+    transform: translateX(4rem) scale(1);
+  }
+  50% {
+    transform: translateX(2rem) scale(1.2);
+  }
+  100% {
+    transform: translateX(0) scale(1);
+  }
+}
