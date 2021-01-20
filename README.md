@@ -37,3 +37,5 @@
 | 32| [Good, Cheap, Fast Checkboxes](https://github.com/maverickmaruthi/50projects50days/tree/main/gcf-checkboxes)                               | [Live Demo](https://50mini-projects-50days.netlify.app/gcf-checkboxes/index.html)                |
 | 33 | [Notes App](https://github.com/maverickmaruthi/50projects50days/tree/main/notes-app)                               | [Live Demo](https://50mini-projects-50days.netlify.app/notes-app/index.html)                |
 | 34| [Animated Count Down](https://github.com/maverickmaruthi/50projects50days/tree/main/animated-countdown)                               | [Live Demo](https://50mini-projects-50days.netlify.app/animated-countdown/index.html)                |
+| 35 | [Image Carousel](https://github.com/maverickmaruthi/50projects50days/tree/main/image-carousel)                               | [Live Demo](https://50mini-projects-50days.netlify.app/image-carousel/index.html)                |
+| 36| [Hover Board](https://github.com/maverickmaruthi/50projects50days/tree/main/hoverboard)                               | [Live Demo](https://50mini-projects-50days.netlify.app/hoverboard/index.html)                |
