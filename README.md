@@ -39,3 +39,5 @@
 | 34| [Animated Count Down](https://github.com/maverickmaruthi/50projects50days/tree/main/animated-countdown)                               | [Live Demo](https://50mini-projects-50days.netlify.app/animated-countdown/index.html)                |
 | 35 | [Image Carousel](https://github.com/maverickmaruthi/50projects50days/tree/main/image-carousel)                               | [Live Demo](https://50mini-projects-50days.netlify.app/image-carousel/index.html)                |
 | 36| [Hover Board](https://github.com/maverickmaruthi/50projects50days/tree/main/hoverboard)                               | [Live Demo](https://50mini-projects-50days.netlify.app/hoverboard/index.html)                |
+| 37 | [Pokedex](https://github.com/maverickmaruthi/50projects50days/tree/main/pokedex)                               | [Live Demo](https://50mini-projects-50days.netlify.app/pokedex/index.html)                |
+| 38| [Mobile Tab Navigation](https://github.com/maverickmaruthi/50projects50days/tree/main/mobile-tab-navigation)                               | [Live Demo](https://50mini-projects-50days.netlify.app/mobile-tab-navigation/index.html)                |
