@@ -61,10 +61,10 @@ body {
 }
 
 .user .user-image {
-  border-radius: 50%;
-  height: 7.5rem;
-  width: 7.5rem;
-  object-fit: cover;
+    border-radius: 50%;
+    height: 7.5rem;
+    width: 7.5rem;
+    object-fit: cover;
 }
 
 .user .user-details {
