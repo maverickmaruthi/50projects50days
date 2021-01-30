@@ -52,3 +52,4 @@
 | 47 | [Testimonial Box Switcher](https://github.com/maverickmaruthi/50projects50days/tree/main/testimonial-box-switcher)                               | [Live Demo](https://50mini-projects-50days.netlify.app/testimonial-box-switcher/index.html)                |
 | 48 | [Random Image Feed](https://github.com/maverickmaruthi/50projects50days/tree/main/random-image-feed)                               | [Live Demo](https://50mini-projects-50days.netlify.app/random-image-feed/index.html)                |
 | 49 | [Todo List](https://github.com/maverickmaruthi/50projects50days/tree/main/todos)                               | [Live Demo](https://50mini-projects-50days.netlify.app/todos/index.html)                |
+| 50 | [Insect Catch Game](https://github.com/maverickmaruthi/50projects50days/tree/main/insect-catch-game)                               | [Live Demo](https://50mini-projects-50days.netlify.app/insect-catch-game/index.html)                |
